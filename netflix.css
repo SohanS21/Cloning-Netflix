@@ -1,0 +1,198 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.btn1 {
+    position: absolute;
+    top: 25px;
+    left: 185vh;
+
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    width: 10%;
+}
+
+.contain {
+    background: radial-gradient(hsla(0, 0%, 26%,0.7),hsla(0, 0%, 0%,0.7)),
+                url(background.jpg);
+    height: 93vh;
+    width: 100%;
+    padding: 1px;
+}
+
+p {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    padding-top: 150px;
+    font-weight: bold;
+    font-family: ui-monospace;
+}
+
+.anytime {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding-top: 6px;
+    font-weight: 500;
+}
+
+.btn2 {
+    text-align: center;
+    margin-left: 37%;
+    margin-top: 15px;
+}
+
+.footer {
+    background-color: rgb(34, 33, 33);
+    color: rgb(199, 194, 194);
+    cursor: pointer;
+    font-size: 20px;
+    border-bottom: solid rgb(121, 119, 119) 3px;
+
+}
+.nav1 {
+    list-style: none;
+    display: flex;
+    padding: 5px;
+
+
+}
+
+.nav-item {
+    padding: 20px;
+    margin: 20px;
+    margin-left: 300px;
+}
+
+.nav-item:hover {
+    color: white;
+    /* border-bottom: solid red 2px; */
+}
+
+.cancel {
+    background-color: black;
+    display: flex;
+}
+
+#h3 {
+    padding: 15rem;
+    color: white;
+
+}
+
+.btn3 {
+    background-color: black;
+    margin-top: 30px;
+}
+
+#content-1 {
+    width: 35%;
+    height: 30rem;
+    margin-right: 150px;
+}
+
+.anywhere {
+    background-color: black;
+    color: white;
+}
+
+#h4 {
+    margin-left: 20%;
+    padding-top: 100px;
+}
+
+.btn4 {
+    margin-left: 20px;
+}
+
+.gallery {
+    margin: 5px;
+    display: inline-grid;
+   
+    width: 180px;
+    margin-left: 280px;
+    
+    margin-top: 70px;
+}
+h5{
+    /* text-align: center;  */
+    margin-left: 70px;
+    display:flex;
+}
+h7{
+    color: rgb(121, 119, 119);
+    text-align: center;
+}
+.price{
+    background-color: black;
+    color: white;
+}
+#h5{
+    text-align: center;
+    padding-top: 100px;
+}
+.btn5{
+    margin-left: 44%;
+    margin-top: 10px;
+    
+}
+table{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+    
+}
+table td,th{
+    /* border: solid red 2px; */
+    padding-left: 50px;
+    padding-right: 80px;
+    padding-top: 15px;
+    text-align: left;
+    
+    
+}
+table tbody{
+    color: rgb(121, 119, 119);
+    background-color: rgb(34, 33, 33);
+    margin-left: 370px;
+}
+table th{
+    background-color: black;
+    color: white;
+}
+.color{
+    background-color: black;
+}
+footer{
+    background-color: black;
+    color: rgb(121, 119, 119);
+    display: flex;
+}
+.footer1,.footer2,.footer3,.footer4{
+    margin-left: 12%;
+    margin-top: 100px;
+}
+.l1{
+    list-style: none;
+}
+.footer2,.footer3,.footer4{
+    margin-top: 145px;
+}
+.anywhere1{
+    display: none;
+}
+.navActive{
+    border-bottom: solid red 2px;
+}
+
+
+
